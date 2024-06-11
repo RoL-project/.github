@@ -1,7 +1,7 @@
 ## Unravelling the Rule of Law: A Machine Learning Approach
 
-[Jaroslaw Kantorowicz](https://github.com/JarekKantorowicz)
-[Bastián González-Bustamante](https://github.com/bgonzalezbustamante)
+[**Jaroslaw Kantorowicz**](https://github.com/JarekKantorowicz) \
+[**Bastián González-Bustamante**](https://github.com/bgonzalezbustamante)
 
 There are ongoing debates about what the rule of law is and was historically. Legal-philosophical scholars present strikingly different conclusions regarding, among others, the origins and causes of the rule of law, the evolution of its meaning and the most influential thinkers contributing to concept building. One such example of the differences of opinion concerns the thin and thick conceptualisations of the rule of law. In other words, to what extent should the rule of law exclusively refer to the quality of the legal system (thin conceptualisation) and to what extent should it also include human rights and other adjacent concepts (thick conceptualisation)? Relatedly, there is an ongoing and tense discussion revolving around the virtues of the rule of law, ranging from offering predictability to tempering arbitrary power.
 
